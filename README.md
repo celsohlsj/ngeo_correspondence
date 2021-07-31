@@ -1,6 +1,4 @@
 [![DOI](https://zenodo.org/badge/doi/10.1038/s41559-020-01368-x.svg)](http://dx.doi.org/10.1038/s41559-020-01368-x)
-![licence](https://img.shields.io/badge/Licence-GPL--3-blue.svg)
-![Github](https://img.shields.io/badge/Github-0.0.7-green.svg)
 
 # Tradução da Correspodencia "Amazonian forest degradation must be incorporated into the COP26 agenda" publicada na revista Nature Geocience
 # Traducción de la Correspodencia "Amazonian forest degradation must be incorporated into the COP26 agenda" publicada en la revista Nature Geoscience
