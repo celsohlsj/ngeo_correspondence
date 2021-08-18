@@ -28,5 +28,5 @@ Tradução em PDF
 
 
 # Para citar a Correspondencia [Para citar la Correspondencia]:
-Silva Junior, C.H.L. et al. Amazonian forest degradation must be incorporated into the COP26 agenda. Nature Geociencence (2021). https://doi.org/
+Silva Junior, C.H.L. et al. Amazonian forest degradation must be incorporated into the COP26 agenda. Nature Geociencence (2021). DOI: 10.1038/s41561-021-00823-z
 
