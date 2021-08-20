@@ -1,5 +1,6 @@
 # Versão em Português
 ## _A degradação florestal amazônica deve ser incorporada à agenda da COP26_
+## <a href="http://celsohlsj.me/">Tradução em PDF</a>
 
 **_Celso H. L. Silva Junior, Nathália S. Carvalho, Ana C. M. Pessôa, João B. C. Reis, Aline Pontes-Lopes, Juan Doblas, Viola Heinrich, Wesley Campanharo, Ane Alencar, Camila Silva, David M. Lapola, Dolors Armenteras, Eraldo A. T. Matricardi, Erika Berenguer, Henrique Cassol, Izaya Numata, Joanna House, Joice Ferreira, Jos Barlow, Luciana Gatti, Paulo Brando, Philip M. Fearnside, Sassan Saatchi, Sonaira Silva, Stephen Sitch, Ana P. Aguiar, Carlos A. Silva, Christelle Vancutsem, Frédéric Achard, René Beuchle, Yosio E. Shimabukuro, Liana O. Anderson, Luiz E. O. C. Aragão_**
 
@@ -18,8 +19,6 @@ Políticas eficazes para conter o desmatamento não abordam diretamente a degrad
 A redução das emissões provenientes das mudanças no uso e cobertura da terra só será eficaz no apoio ao desenvolvimento sustentável da região amazônica se as políticas abordarem as causas sociais, econômicas, políticas e ambientais do desmatamento e degradação. Além disso, devem ser acompanhados de incentivos, tecnologia de gestão fundiária, capacitação, oferta de fontes alternativas de renda, planejamento territorial e mecanismos de mercado para fortalecer as cadeias produtivas sustentáveis15. Para ter sucesso, as políticas que visam abordar o desmatamento e a degradação florestal devem incorporar o monitoramento local contínuo e a responsabilização por crimes ambientais.
 
 Os impactos da degradação florestal foram negligenciados nas discussões de políticas por muito tempo. As discussões da COP26 apresentam uma oportunidade ideal para chamar a atenção para essas questões e assim estabelecer novas estratégias necessárias para reduzir as emissões associadas às mudanças do uso e cobertura da terra.
-
-<a href="http://celsohlsj.me/">Tradução em PDF</a>
 
 # Versión en Español
 ## La degradación de los bosques en la Amazonía se incorporará a la agenda de la COP26 
