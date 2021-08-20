@@ -21,21 +21,21 @@ A redução das emissões provenientes das mudanças no uso e cobertura da terra
 Os impactos da degradação florestal foram negligenciados nas discussões de políticas por muito tempo. As discussões da COP26 apresentam uma oportunidade ideal para chamar a atenção para essas questões e assim estabelecer novas estratégias necessárias para reduzir as emissões associadas às mudanças do uso e cobertura da terra.
 
 **Referências**
-1.	Aragão, L. E. O. C. et al. 21st Century drought-related fires counteract the decline of Amazon deforestation carbon emissions. _Nat. Commun_. **9**, 536 (2018).
-2.	Silva Junior, C. H. L. et al. Persistent collapse of biomass in Amazonian forest edges following deforestation leads to unaccounted carbon losses. _Sci. Adv_. **6**, (2020).
-3.	Assis, T. O. et al. CO2 emissions from forest degradation in Brazilian Amazon. Environ. Res. Lett. 15, 104035 (2020).
-4.	Harris, N. L. et al. Global maps of twenty-first century forest carbon fluxes. Nat. Clim. Chang. 11, 234–240 (2021).
-5.	Asner, G. P. Selective Logging in the Brazilian Amazon. Science 310, 480–482 (2005).
-6.	Caviglia-Harris, J. et al. Busting the Boom–Bust Pattern of Development in the Brazilian Amazon. World Dev. 79, 82–96 (2016).
-7.	Barlow, J. et al. Anthropogenic disturbance in tropical forests can double biodiversity loss from deforestation. Nature 535, 144–147 (2016).
-8.	Matricardi, E. A. T. et al. Long-term forest degradation surpasses deforestation in the Brazilian Amazon. Science 369, 1378–1382 (2020).
-9.	Vancutsem, C. et al. Long-term (1990–2019) monitoring of forest cover changes in the humid tropics. Sci. Adv. 7, eabe1603 (2021).
-10.	Silva, C. V. J. et al. Estimating the multi-decadal carbon deficit of burned Amazonian forests. Environ. Res. Lett. 15, 114023 (2020).
-11.	Silva Junior, C. H. L. et al. The Brazilian Amazon deforestation rate in 2020 is the greatest of the decade. Nat. Ecol. Evol. 5, 144–145 (2021).
-12.	Lamb, D. Restoration of Degraded Tropical Forest Landscapes. Science 310, 1628–1632 (2005).
-13.	Heinrich, V. H. A. et al. Large carbon sink potential of secondary forests in the Brazilian Amazon to mitigate climate change. Nat. Commun. 12, 1785 (2021).
-14.	Smith, C. C. et al. Old-growth forest loss and secondary forest recovery across Amazonian countries. Environ. Res. Lett. (2021).
-15.	Stabile, M. C. C. et al. Solving Brazil’s land use puzzle: Increasing production and slowing Amazon deforestation. Land Use Policy 91, 104362 (2020).
+1.	Aragão, L. E. O. C. et al. 21st Century drought-related fires counteract the decline of Amazon deforestation carbon emissions. _Nat. Commun._ **9**, 536 (2018).
+2.	Silva Junior, C. H. L. et al. Persistent collapse of biomass in Amazonian forest edges following deforestation leads to unaccounted carbon losses. _Sci. Adv._ **6**, (2020).
+3.	Assis, T. O. et al. CO2 emissions from forest degradation in Brazilian Amazon. _Environ. Res. Lett._ **15**, 104035 (2020).
+4.	Harris, N. L. et al. Global maps of twenty-first century forest carbon fluxes. _Nat. Clim. Chang._ **11**, 234–240 (2021).
+5.	Asner, G. P. Selective Logging in the Brazilian Amazon. _Science_ **310**, 480–482 (2005).
+6.	Caviglia-Harris, J. et al. Busting the Boom–Bust Pattern of Development in the Brazilian Amazon. _World Dev._ **79**, 82–96 (2016).
+7.	Barlow, J. et al. Anthropogenic disturbance in tropical forests can double biodiversity loss from deforestation. _Nature_ **535**, 144–147 (2016).
+8.	Matricardi, E. A. T. et al. Long-term forest degradation surpasses deforestation in the Brazilian Amazon. _Science_ **369**, 1378–1382 (2020).
+9.	Vancutsem, C. et al. Long-term (1990–2019) monitoring of forest cover changes in the humid tropics. _Sci. Adv._ **7**, eabe1603 (2021).
+10.	Silva, C. V. J. et al. Estimating the multi-decadal carbon deficit of burned Amazonian forests. _Environ. Res. Lett._ **15**, 114023 (2020).
+11.	Silva Junior, C. H. L. et al. The Brazilian Amazon deforestation rate in 2020 is the greatest of the decade. _Nat. Ecol. Evol._ **5**, 144–145 (2021).
+12.	Lamb, D. Restoration of Degraded Tropical Forest Landscapes. _Science_ **310**, 1628–1632 (2005).
+13.	Heinrich, V. H. A. et al. Large carbon sink potential of secondary forests in the Brazilian Amazon to mitigate climate change. _Nat. Commun._ **12**, 1785 (2021).
+14.	Smith, C. C. et al. Old-growth forest loss and secondary forest recovery across Amazonian countries. _Environ. Res. Lett._ (2021).
+15.	Stabile, M. C. C. et al. Solving Brazil’s land use puzzle: Increasing production and slowing Amazon deforestation. _Land Use Policy_ **91**, 104362 (2020).
 
 # Versión en Español
 ## La degradación de los bosques en la Amazonía se incorporará a la agenda de la COP26 
