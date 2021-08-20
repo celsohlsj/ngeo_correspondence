@@ -16,7 +16,7 @@ A redução das emissões provenientes das mudanças no uso e cobertura da terra
 
 Os impactos da degradação florestal foram negligenciados nas discussões de políticas por muito tempo. As discussões da COP26 apresentam uma oportunidade ideal para chamar a atenção para essas questões e assim estabelecer novas estratégias necessárias para reduzir as emissões associadas às mudanças do uso e cobertura da terra.
 
-Tradução em PDF
+<a href="http://celsohlsj.me/">Tradução em PDF</a>
 
 # Versión en Español
 ## La degradación de los bosques en la Amazonía se incorporará a la agenda de la COP26 
