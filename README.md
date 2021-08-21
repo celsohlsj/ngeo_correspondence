@@ -77,5 +77,5 @@ Os impactos da degradação florestal foram negligenciados nas discussões de po
 15.	Stabile, M. C. C. et al. Solving Brazil’s land use puzzle: Increasing production and slowing Amazon deforestation. _Land Use Policy_ **91**, 104362 (2020).
 
 # Para citar a Correspondencia [Para citar la Correspondencia]:
-Silva Junior, C.H.L. et al. Amazonian forest degradation must be incorporated into the COP26 agenda. Nature Geociencence (2021). DOI: 10.1038/s41561-021-00823-z
+Silva Junior, C.H.L. et al. Amazonian forest degradation must be incorporated into the COP26 agenda. _Nature Geociencence_ (2021). DOI: 10.1038/s41561-021-00823-z
 
