@@ -1,4 +1,4 @@
-# Versão em Português (🇧🇷)
+# Versão em Português :brazil:
 ## <a href="https://drive.google.com/file/d/13lJESTLTBvCjf4ziRsP9jVf3W8kuH7Ti/view?usp=sharing">Tradução em PDF</a>
 ## _A degradação florestal amazônica deve ser incorporada à agenda da COP26_
 
@@ -37,7 +37,7 @@ Os impactos da degradação florestal foram negligenciados nas discussões de po
 14.	Smith, C. C. et al. Old-growth forest loss and secondary forest recovery across Amazonian countries. _Environ. Res. Lett._ (2021).
 15.	Stabile, M. C. C. et al. Solving Brazil’s land use puzzle: Increasing production and slowing Amazon deforestation. _Land Use Policy_ **91**, 104362 (2020).
 
-# Versión en Español (:colombia:)
+# Versión en Español :colombia:
 ## <a href="https://drive.google.com/file/d/1gMXH0NiwJupZeZN4Xc5wCP6kKKkY51XI/view?usp=sharing">Traducción en PDF</a>
 ## _La degradación de los bosques amazónicos debe incorporarse a la agenda de la COP26_
 
