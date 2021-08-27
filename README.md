@@ -1,4 +1,4 @@
-# Versão em Português 🇧🇷
+# Versão em Português
 ## <a href="https://drive.google.com/file/d/13lJESTLTBvCjf4ziRsP9jVf3W8kuH7Ti/view?usp=sharing">Tradução em PDF</a>
 ## _A degradação florestal amazônica deve ser incorporada à agenda da COP26_
 
