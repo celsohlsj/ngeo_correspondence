@@ -1,6 +1,6 @@
 # Versão em Português :brazil:
 ## <a href="https://drive.google.com/file/d/13lJESTLTBvCjf4ziRsP9jVf3W8kuH7Ti/view?usp=sharing">Tradução em PDF</a>
-## _A degradação florestal amazônica deve ser incorporada à agenda da COP26_
+## _A degradação da floresta amazônica deve ser incorporada à agenda da COP26_
 
 **_Celso H. L. Silva Junior, Nathália S. Carvalho, Ana C. M. Pessôa, João B. C. Reis, Aline Pontes-Lopes, Juan Doblas, Viola Heinrich, Wesley Campanharo, Ane Alencar, Camila Silva, David M. Lapola, Dolors Armenteras, Eraldo A. T. Matricardi, Erika Berenguer, Henrique Cassol, Izaya Numata, Joanna House, Joice Ferreira, Jos Barlow, Luciana Gatti, Paulo Brando, Philip M. Fearnside, Sassan Saatchi, Sonaira Silva, Stephen Sitch, Ana P. Aguiar, Carlos A. Silva, Christelle Vancutsem, Frédéric Achard, René Beuchle, Yosio E. Shimabukuro, Liana O. Anderson, Luiz E. O. C. Aragão_**
 
