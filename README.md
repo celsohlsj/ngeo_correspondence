@@ -1,3 +1,6 @@
+# Para citar a Correspondencia [Para citar la Correspondencia]:
+Silva Junior, C.H.L. et al. Amazonian forest degradation must be incorporated into the COP26 agenda. _Nature Geociencence_ (2021). DOI: 10.1038/s41561-021-00823-z
+
 # Versão em Português
 ## <a href="https://drive.google.com/file/d/13lJESTLTBvCjf4ziRsP9jVf3W8kuH7Ti/view?usp=sharing">Tradução em PDF</a>
 ## _A degradação da floresta amazônica deve ser incorporada à agenda da COP26_
@@ -76,7 +79,3 @@ Los efectos de la degradación de los bosques se han pasado por alto en los deba
 13.	Heinrich, V. H. A. et al. Large carbon sink potential of secondary forests in the Brazilian Amazon to mitigate climate change. _Nat. Commun._ **12**, 1785 (2021).
 14.	Smith, C. C. et al. Old-growth forest loss and secondary forest recovery across Amazonian countries. _Environ. Res. Lett._ (2021).
 15.	Stabile, M. C. C. et al. Solving Brazil’s land use puzzle: Increasing production and slowing Amazon deforestation. _Land Use Policy_ **91**, 104362 (2020).
-
-# Para citar a Correspondencia [Para citar la Correspondencia]:
-Silva Junior, C.H.L. et al. Amazonian forest degradation must be incorporated into the COP26 agenda. _Nature Geociencence_ (2021). DOI: 10.1038/s41561-021-00823-z
-
