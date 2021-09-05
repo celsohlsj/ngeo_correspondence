@@ -1,5 +1,5 @@
 # Para citar a Correspondência [Para citar la Correspondencia]:
-Silva Junior, C.H.L., Carvalho, N.S., Pessôa, A.C.M. et al. Amazonian forest degradation must be incorporated into the COP26 agenda. _Nat. Geosci_. **14**, 634–635 (2021). https://rdcu.be/cw7ua.
+Silva Junior, C.H.L., Carvalho, N.S., Pessôa, A.C.M. et al. Amazonian forest degradation must be incorporated into the COP26 agenda. _Nat. Geosci_. **14(9)**, 634–635 (2021). https://rdcu.be/cw7ua.
 
 # Versão em Português
 ## <a href="https://drive.google.com/file/d/13lJESTLTBvCjf4ziRsP9jVf3W8kuH7Ti/view?usp=sharing">Tradução em PDF</a>
